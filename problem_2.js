@@ -11,4 +11,4 @@ const vowelCount = (str) =>{
     return count;
 
 }
-console.log(vowelCount("Hello World"));
+console.log(vowelCount("programming"));
