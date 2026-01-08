@@ -17,4 +17,4 @@ const findMax = (arr)=>{
     }
     return max;
 }
-console.log(findMax([7,5,3,9,2]));
+console.log(findMax([5, 1, 9, 3]));
